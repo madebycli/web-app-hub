@@ -357,9 +357,9 @@ dependencies = [
 
 [[package]]
 name = "cc"
-version = "1.4.6"
+version = "1.4.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "a3eb0f42d6c360dc3f8a821f6bf2fdea7f72bfd36b3076eb0e6d1e9e0752fff4"
+checksum = "54413ede23c2daf518f35156dfde027feb2374004d63bd497f983c8db9c0e313"
 dependencies = [
  "find-msvc-tools",
  "jobserver",
@@ -931,9 +931,9 @@ dependencies = [
 
 [[package]]
 name = "find-msvc-tools"
-version = "0.1.12"
+version = "0.1.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3e0f1c7c3a72c66fd80abe965175f7523475c0489a87d3ff9d6e8c87d87a9d2d"
+checksum = "ef25905e51abafe4dcea6c15fec58c57b601cdbd0ee53d22ea1d3016c587d39b"
 
 [[package]]
 name = "flate2"
@@ -1235,9 +1235,9 @@ dependencies = [
 
 [[package]]
 name = "git-cliff"
-version = "2.14.1"
+version = "2.14.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f05cd614cfbc0a8285e1ee0b25782e4077b10a1730fd28ba96080538d61c6f79"
+checksum = "3cf0865d861e5b64a73ca527c62c1c566412ec1cc5a4ad5c5692650bfb0e2a79"
 dependencies = [
  "clap",
  "clap_complete",
@@ -1261,9 +1261,9 @@ dependencies = [
 
 [[package]]
 name = "git-cliff-core"
-version = "2.14.1"
+version = "2.14.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "2eab5c623118da18329dc1ae86d6075f622dbd1e694795a7e977125fca8d9331"
+checksum = "02f20f21c9560139e9ac425762783d2c7ef31492d2924e0851e48afc18eaf9ef"
 dependencies = [
  "async-stream",
  "bincode 2.0.1",
